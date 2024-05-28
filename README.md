@@ -3,4 +3,5 @@
 ## ІО-23
 
 ### Виконав:
-*Швед Андрій* - [andreyfrog26@gmail.com, [@Rhinemann](https://t.me/Rhinemann)]
+*Олександр ГУРАНЕЦЬ [bacant150@gmail.com, [@Bacant150](https://t.me/Bacant150)]*
+
