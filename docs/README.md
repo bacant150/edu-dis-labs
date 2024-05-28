@@ -10,7 +10,7 @@ footer: "ECL 2.0 Licensed | Copyright © 2024 [Your Name]"
 
 *студент 2-го курсу, групи ІО-23:*
 
-*Андрій ШВЕД [andreyfrog26@gmail.com, [@Rhinemann](https://t.me/Rhinemann)]*
+*Олександр ГУРАНЕЦЬ [bacant150@gmail.com, [@Bacant150](https://t.me/Bacant150)]*
 
 **Керівник**
 
